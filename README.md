@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate 16 year old developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altyd" alt="altyd" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://winningproject.xyz](https://winningproject.xyz)
 
 - 📫 How to reach me **francotdw@gmail.com**
